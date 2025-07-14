@@ -1,5 +1,5 @@
 # Assembler
-Basic assembler implemented in Java
+Assembler implemented in Java
 
 ## Structure
 src/Assembler.java : This class contains the main function and logic of reading from files, removing comments and writing to files after parsing.  
